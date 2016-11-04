@@ -1,0 +1,21 @@
+.idea\
+	compiler.xml
+	copyright\
+		profiles_settings.xml
+	description.html
+	encodings.xml
+	misc.xml
+	modules.xml
+	vcs.xml
+	workspace.xml
+file.txt
+out\
+	production\
+		Training7\
+			Main.class
+src\
+	Main.java
+test.txt
+text.txt
+Training7.iml
+tree.txt
